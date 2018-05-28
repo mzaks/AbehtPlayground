@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' executeOnSourceChanges='false'>
+    <pages>
+        <page name='Simple Tree'/>
+        <page name='Simple Frame'/>
+        <page name='Better Tree'/>
+        <page name='Async Tree'/>
+        <page name='With Panick'/>
+        <page name='Protocol Node'/>
+        <page name='Visit Tree'/>
+    </pages>
+</playground>
